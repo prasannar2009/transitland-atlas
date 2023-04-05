@@ -5,7 +5,7 @@
       "id": "f-ashbourneconnect~ie",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_ashbourneconnect.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_Ashbourne_Connect.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
@@ -18,7 +18,7 @@
       "id": "f-corduff~ie",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_corduff.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_Corduff_Coaches.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
@@ -107,7 +107,7 @@
       "id": "f-gc-busÉireann",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_buseireann.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_Bus_Eireann.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
@@ -132,7 +132,7 @@
       "id": "f-gc-citylink",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_citylink.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_Citylink.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
@@ -299,7 +299,7 @@
       "id": "f-gc-kenneallysbusservice",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_kenneallys.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_Kenneallys.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence"
@@ -909,7 +909,7 @@
       "id": "f-gc6-bernardkavanagh~sons",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_bkavanagh.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_Bernard_Kavanagh.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
@@ -934,7 +934,7 @@
       "id": "f-gc6-dublincoach",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_dublincoach.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_Dublin_Coach.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
@@ -959,7 +959,7 @@
       "id": "f-gc6-irishrail~irishrail~irishrail~irishrail",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_irishrail.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_Irish_Rail.zip"
       },
       "operators": [
         {
@@ -978,7 +978,7 @@
       "id": "f-gc6-johnkearns",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_kearns.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_Kearns_Transport.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
@@ -1003,7 +1003,7 @@
       "id": "f-gc6-locallinkcarlowkilkenny~locallinkcork~locallinkkildare~loc",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_locallink.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_Local_Link.zip"
       },
       "operators": [
         {
@@ -1077,7 +1077,7 @@
       "id": "f-gc6-slievebloomcoachtours",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_sbloom.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_Slieve_Bloom.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
@@ -1281,7 +1281,7 @@
       "id": "f-gc7-dublinbus",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_dublinbus.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_Dublin_Bus.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence"
@@ -1303,7 +1303,7 @@
       "id": "f-gc7-wexfordbus",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_wexfordbus.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_Wexford_Bus.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
@@ -1353,7 +1353,7 @@
       "id": "f-gc7h-jjkavanagh~sons",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_jjkavanagh.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_JJ_Kavanagh.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
@@ -1456,7 +1456,7 @@
       "id": "f-gc7x-luas",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_luas.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_LUAS.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
@@ -1503,7 +1503,7 @@
       "id": "f-gc7x-nitelinkdublinbus",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_nitelink.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_Nitelink.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
@@ -1528,7 +1528,7 @@
       "id": "f-gc7x-swordsexpress",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_swordsexpress.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_Swords_Express.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
@@ -1600,7 +1600,7 @@
       "id": "f-gc9-mcgrathcoaches",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_mcgrath.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_McGrath.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
@@ -1725,7 +1725,7 @@
       "id": "f-gce-matthewscoachhire",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_matthews.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_Matthews.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
@@ -1866,7 +1866,7 @@
       "id": "f-goahead~ie",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_goahead.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_GoAhead.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
@@ -1892,7 +1892,7 @@
       "id": "f-vdv~bus~eireann",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/VDVBus%20Eireann.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/VDV_Bus_Eireann.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
@@ -1905,7 +1905,7 @@
       "id": "f-vdv~dublin~bus~ie",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/VDVDublin%20Bus.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/VDV_Dublin_Bus.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
