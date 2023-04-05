@@ -107,7 +107,7 @@
       "id": "f-gc-busÉireann",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.transportforireland.ie/transitData/google_transit_buseireann.zip"
+        "static_current": "https://www.transportforireland.ie/transitData/Data/GTFS_Bus_Eireann.zip"
       },
       "license": {
         "url": "https://data.gov.ie/licence",
